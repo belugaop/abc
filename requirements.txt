@@ -9,3 +9,6 @@ heroku3
 aiofiles
 validators
 python-dotenv
+heroku3
+shortzy
+flask
